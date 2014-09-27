@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/seed_sort_toolkit.svg)](http://badge.fury.io/rb/seed_sort_toolkit)
 [![Build Status](https://travis-ci.org/Shinya131/seed_sort_toolkit.svg?branch=master)](https://travis-ci.org/Shinya131/seed_sort_toolkit)
 [![Coverage Status](https://coveralls.io/repos/Shinya131/seed_sort_toolkit/badge.png)](https://coveralls.io/r/Shinya131/seed_sort_toolkit)
 [![Code Climate](https://codeclimate.com/github/Shinya131/seed_sort_toolkit/badges/gpa.svg)](https://codeclimate.com/github/Shinya131/seed_sort_toolkit)
