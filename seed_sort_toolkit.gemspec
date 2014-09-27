@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SeedSortToolkit::VERSION
   spec.authors       = ["Shinya131"]
   spec.email         = ["nagai3mt5b@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "This is rails seed file sort tool. This tool can without changing the content & format, just replace only order."
+  spec.description   = "This is rails seed file sort tool. This tool can without changing the content & format, just replace only order."
   spec.homepage      = ""
   spec.license       = "MIT"
 
