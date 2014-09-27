@@ -7,12 +7,13 @@
 `SeedSortToolkit` is rails seed file sort tool.  
 This tool can without changing the content & format, just replace only order.
 
-    note:   
-      If you use `YAML.load` and sort and `YAML.dump`.  
-      The format of your seed, diff comes out a little.
-      For example: 
-        - Quotes for string will be disappears.
-        - nil column will be blank.
+### note:   
+If you use `YAML.load` and sort and `YAML.dump`.  
+The format of your seed, diff comes out a little.  
+
+ For example: 
+  - Quotes(`""`,`''`) for string will be disappears.
+  - `nil` column will be blank.
 
 This tool does not cause the above problem.
 
