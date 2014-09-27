@@ -11,6 +11,11 @@ class SortableSeedYaml
     fetch_seed
   end
   
+  def sort(&block)
+    @records.sort!(&block)
+    fetch_seed
+  end
+  
   private
   
   def fetch_seed
