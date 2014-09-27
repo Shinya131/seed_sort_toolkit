@@ -4,7 +4,7 @@ MiniTest::Unit.autorun
 
 class TestSortableSeedYaml < MiniTest::Unit::TestCase
   def setup
-    @sortable_seed = SortableSeedYaml.new(TestData::Seed::RandomOrder)
+    @sortable_seed = SeedSortToolkit::SortableSeedYaml.new(TestData::Seed::RandomOrder)
   end
   
   def test_sort_by
