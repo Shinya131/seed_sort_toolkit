@@ -1,5 +1,5 @@
 require "seed_sort_toolkit/version"
 
 module SeedSortToolkit
-  # Your code goes here...
+  require 'seed_sort_toolkit/sortable_seed_yaml'
 end
